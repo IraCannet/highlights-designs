@@ -1,0 +1,70 @@
+<div class="m-elastic-grid">
+    <div class="ms-row">
+        <div class="col-xs-12">
+           <div class="aploze-widget" data-type="carousel" data-radius="false" data-watchlist="pm4TDa0rS5UPWcMbPv84"></div>
+      </div>
+    </div>
+</div>
+<style>
+    /* Font */
+      * {
+        margin: 0;
+        padding: 0;
+        font-family: helvetica neue, helvetica, Ubuntu, roboto, noto, arial, sans-serif;
+      }
+      /* New label */
+  .aploze-carousel-card-pill{
+      /*color: black;
+  background-color: white;*/
+  display: none;
+}
+        /* carousel size */
+  .aploze-carousel {
+  width: 100%;
+}
+   /* indentation */
+  .aploze-carousel-wrap {
+  padding: 0px;
+}
+     /* emoji size */
+  .aploze-carousel-card-boost--emoji {
+  font-size: 16px;
+}
+   /* title format */
+  .aploze-carousel-card-boost--title {
+  font-size: 12px;
+}
+     /* boster banner */
+  .aploze-carousel-card-boost {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  opacity: 0.7;
+  color: black;
+  background-color: white;
+  border-radius: 0;
+}
+  /* Highlight Title */
+.aploze-carousel-card-title {
+  font-size: 14px;
+  text-align: center;
+}
+  /* Card Play Icon */
+.aploze-carousel-card-play {
+  opacity: 1;
+  padding: 0;
+  border-radius: 0;
+  cursor: pointer;
+  /*background: content-box transparent;
+  border: 1px solid white;*/
+  scale: 100%;
+}
+.stidU.aploze-carousel-card-hovered .aploze-carousel-card-enlarge-button {
+  opacity: 1;
+  /*background: content-box transparent;*/
+  scale: 100%;
+  }
+    .aploze-carousel-card-img {
+  width: 100%;
+}
+</style> 
