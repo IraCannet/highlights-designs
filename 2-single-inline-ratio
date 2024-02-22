@@ -1,0 +1,11 @@
+/*2 horizontal single highlights in a row*/
+
+<div class="aploze-widget" data-type="highlight" data-highlight="Xxx" data-radius="false" data-watchlist="pm4TDa0rS5UPWcMbPv84"></div>
+<div class="aploze-widget" data-type="highlight" data-highlight="qbNEBlpcPhedszFdAWX4" data-radius="false" data-watchlist="pm4TDa0rS5UPWcMbPv84"></div>
+<style>
+.aploze-single-highlight {
+  display: inline-block;
+  width: 700px;
+  height: 380px;
+}
+</style>
